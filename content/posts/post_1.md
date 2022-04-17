@@ -1,3 +1,9 @@
+---
+title: "Mi ruta de aprendizajet"
+date: 2022-03-01
+description: 'Descripción de las cosas aprendidas en Launch X'
+---
+
 # **Hola a todos  🧑🏻‍💻** 
 
 Antes de comenzar con mi experiencia en el curso, me gustaria contarles que ha sido de gran ayuda al poder encontrar gente como yo, que es capaz de externar sus dudas y poder compartir recursos que facilitan el desarrollo profesional y personal.
