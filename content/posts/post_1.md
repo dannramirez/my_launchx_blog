@@ -1,7 +1,3 @@
-title: "Mi ruta de aprendizajet"
-date: 2022-03-01
-description: 'Descripción de las cosas aprendidas en Launch X'
-
 # **Hola a todos  🧑🏻‍💻** 
 
 Antes de comenzar con mi experiencia en el curso, me gustaria contarles que ha sido de gran ayuda al poder encontrar gente como yo, que es capaz de externar sus dudas y poder compartir recursos que facilitan el desarrollo profesional y personal.
@@ -36,6 +32,8 @@ Puede que muchos de los integrantes, externen dudas conforme se toman las clases
 
 &nbsp;&nbsp;&nbsp;&nbsp;🟢 Implementacion de instancias en Azure
 
+&nbsp;&nbsp;&nbsp;&nbsp;🟢 Logica de programación
+
 **Los temas que me gustaria mejorar en las misiones son 🚀:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🔵 Diseño responsivo
@@ -46,4 +44,22 @@ Puede que muchos de los integrantes, externen dudas conforme se toman las clases
 
 &nbsp;&nbsp;&nbsp;&nbsp;🔵 Manejo de router de Frameworks
 
-&nbsp;&nbsp;&nbsp;&nbsp;🔵 Manejos de sesiones****
+&nbsp;&nbsp;&nbsp;&nbsp;🔵 Manejos de sesiones
+
+------------
+
+# Tecnologias que he aprendido:
+
+- Javascript
+- CSS3
+- Python
+- NodeJS
+- Jupyter Notebooks
+- Git
+- GitHub
+- VueJS
+- Angular
+- React
+- TypeScript
+
+Gracias por el tiempo de lectura que le has dedicado al post.
